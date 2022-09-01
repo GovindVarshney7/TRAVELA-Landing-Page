@@ -970,7 +970,7 @@ html,body{
         font-size: 2vw;
         /* width: 60vw; */
     }
-    .navRight i{
+    #navRightF{
         display: none;
     }
     #page1Right{
