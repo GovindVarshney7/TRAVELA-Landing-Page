@@ -970,6 +970,9 @@ html,body{
         font-size: 2vw;
         /* width: 60vw; */
     }
+    .navRight i{
+        display: none;
+    }
     #page1Right{
         position: absolute;
         width: 100%;
@@ -1205,11 +1208,9 @@ html,body{
         height:20vh;
     }
     #page7Up1H5, #page7Payement{
-        /* display: none; */
+        display: none;
     }
     .page7UpDiv #email, .page7UpDiv #submit{
-        /* display: none; */
+        display: none;
     }
   }
-
-  Gilroy
